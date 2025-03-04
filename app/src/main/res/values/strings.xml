@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ClockIn</string>
+    <string name="usage">1.勾選本模塊並重啟\n2.打開wework設置\n3.長按“幫助中心”</string>
+    <string name="map_choose">地圖選點</string>
+    <string name="start_vir_loc">啟動虛擬定位</string>
+    <string name="latitude">緯度：</string>
+    <string name="longitude">經度：</string>
+    <string name="location">位置：</string>
+    <string name="address">地址：</string>
+</resources>
